@@ -30,10 +30,6 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.INTEGER,
         allowNull: false
     },
-    // faj: {
-    //     type: DataTypes.STRING(50),
-    //     allowNull: false
-    // },
     szarmazas: {
         type: DataTypes.STRING(50),
         allowNull: false
@@ -50,7 +46,7 @@ module.exports = (sequelize, DataTypes) => {
   }, {
     sequelize,
     modelName: 'Allat',
-    tableName: 'aruk',
+    tableName: 'allatok',
     timestamps: false
   });
   return Allat;
