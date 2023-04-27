@@ -35,7 +35,7 @@ module.exports = (sequelize, DataTypes) => {
         allowNull: false
     },
     taplalek: {
-        types: DataTypes.STRING(100),
+        type: DataTypes.STRING(100),
         allowNull: true
     },
     kategoriaId: {
