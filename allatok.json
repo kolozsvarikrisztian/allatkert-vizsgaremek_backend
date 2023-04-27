@@ -1,0 +1,56 @@
+[
+    {
+        "nev": "Gímszarvas",
+        "kepUrl": "/img-animal/gímszarvas.jpg",
+        "becenev": "Gombi",
+        "elletkor": "10 év",
+        "faj": "Cervus elaphus",
+        "szarmazas": "Európa",
+        "taplalek": "Lágy szárú növények, a bokrok és fák rügyei"
+    },
+    {
+        "nev": "Hullámos papagáj",
+        "kepUrl": "/img-animal/hullamospapagaj.jpg",
+        "becenev": "Arász",
+        "elletkor": "5 év",
+        "faj": "Melopsittacus undulatus",
+        "szarmazas": "Ausztrália",
+        "taplalek": "Fűmagvak, kedvence a köles"
+    },
+    {
+        "nev": "Indiai elefánt",
+        "kepUrl": "/img-animal/indiaielefant.jpg",
+        "becenev": "Bence",
+        "elletkor": "26 év",
+        "faj": "Elephas maximus indicus",
+        "szarmazas": "India",
+        "taplalek": "Füvet, fakérget, gyökeret és gyümölcsöt eszik"
+    },
+    {
+        "nev": "Jegesmedve",
+        "kepUrl": "/img-animal/jegesmedve.jpg",
+        "becenev": "Lackó",
+        "elletkor": "14 év",
+        "faj": "Ursus maritimus",
+        "szarmazas": "Északi Sarkvidék",
+        "taplalek": "Húsevő, kedvenc prédája a fókák"
+    },
+    {
+        "nev": "Kanadai hiúz",
+        "kepUrl": "/img-animal/kanadaihiúz.jpg",
+        "becenev": "Kancsi",
+        "elletkor": "10 év",
+        "faj": "Lynx canadensis",
+        "szarmazas": "Észak Amerika, Kanada",
+        "taplalek": "Húsevő, prédája a hócipős nyúl"
+    },
+    {
+        "nev": "Leopárd",
+        "kepUrl": "/img-animal/leopard.jpg",
+        "becenev": "Foltos",
+        "elletkor": "8 év",
+        "faj": "Panthera pardus",
+        "szarmazas": "Dél Afrika",
+        "taplalek": "Húsevő, gyakran eszik bogarakat, rágcsálókat és halakat"
+    }
+]

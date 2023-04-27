@@ -11,14 +11,12 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      //Kategoria.associate = function (models) {    
-        Kategoria.hasMany(models.Allat, {
-          as: "Kategoria",
-          foreignKey: 'kategoriaId'
-        })
-      };
+      Kategoria.hasMany(models.Allat, {
+        as: "Kategoria",
+        foreignKey: 'kategoriaId'
+      })
     }
-  
+  }
   Kategoria.init({
     nev: {
       type: DataTypes.STRING(50),
